@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="">
   </head>
   <body>
+    <?php
+    echo "Hola GIT";
+    ?>
     
     
     <script src="" async defer></script>
